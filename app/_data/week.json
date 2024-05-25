@@ -1,0 +1,22 @@
+{
+  "weeklyWeather": [
+    {
+      "dateTime": "2024-04-15T12:00:00Z",
+      "condition": "sunny",
+      "conditionIcon": "☀️",
+      "temperature": {
+        "celsius": 22,
+        "fahrenheit": 71.6
+      }
+    },
+    {
+      "dateTime": "2024-04-16T12:00:00Z",
+      "condition": "partlyCloudy",
+      "conditionIcon": "⛅️",
+      "temperature": {
+        "celsius": 20,
+        "fahrenheit": 68
+      }
+    }
+  ]
+}
